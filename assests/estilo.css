@@ -21,6 +21,11 @@ body {
     color: #34252f;
 }
 
+#conteudocontato{
+    color: #34252f;
+    font-size: x-large;
+}
+
 .centralizar{
     text-align: center;
 }
